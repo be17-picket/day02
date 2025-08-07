@@ -1,5 +1,6 @@
 package com.sw.spring_study.review;
 
+import com.sw.spring_study.book.model.Book;
 import jakarta.persistence.*;
 
 @Entity
